@@ -8,7 +8,7 @@
 
 ## My Skills
 
-### 📱 Mobile & Backend Development
+### 📱 Mobile App Development
 <p>
 <a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://www.java.com/"><img alt="Java" title="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
